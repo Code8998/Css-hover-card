@@ -1,0 +1,12 @@
+1) Create a html file
+
+2) First paste the html code there from "html code" file
+
+3)Now create a css file
+
+4)link that css file with html file by typing this: "<link ref="stylesheet" href="(your css file name)">"
+
+5)Paste the css code from the "css code" file
+
+now run the code
+Enjoy!
